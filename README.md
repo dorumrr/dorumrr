@@ -1,0 +1,1 @@
+<img src="/images/typingcat.gif" width="100%">
