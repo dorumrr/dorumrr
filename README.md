@@ -1,5 +1,5 @@
 <h2>Doru Moraru</h2>
-<img align='right' src="images/dm.png" width="192">
+<img align='right' src="images/dm.png" width="200">
 
 <p>
     <em>
