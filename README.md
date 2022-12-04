@@ -9,10 +9,7 @@
 
 <picture>
   <img alt="United Kingdom" src="https://img.shields.io/badge/Location-United%20Kingdom-red">
-</picture>
-
-<!-- ![location](https://img.shields.io/badge/Location-United%20Kingdom-red) -->
-
+</picture> 
 [![Linkedin: dorumrr](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dorumrr/)](https://www.linkedin.com/in/dorumrr/)
 [![website: doru-moraru.com](https://img.shields.io/badge/Website-darkgreen.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://doru-moraru.com/)](https://www.doru-moraru.com/)
 <br />
