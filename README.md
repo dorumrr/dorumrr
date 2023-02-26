@@ -3,7 +3,7 @@
 
 <p>
     <em>
-    Tech Lead <img src="https://media.giphy.com/media/3oKIPh0WJ9iNDewH4s/giphy.gif" width="22" style="margin-bottom: -3px"> and Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/3oKIPh0WJ9iNDewH4s/giphy.gif" width="22" style="margin-bottom: -3px"> Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </em>
 </p>
 
