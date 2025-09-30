@@ -15,7 +15,9 @@
   ### 🧩 Beyond 9to5
 
   - 📻 **Amateur Radio Operator** — Passionate about CW (Morse Code) and QRP
+
   - 🌐 **Open Source Enthusiast** — Contributing to and building (F)OSS projects
+  
   - ✍️ **Published Author** — Exploring technology, freedom, and the cost of progress.
 
   <br>
