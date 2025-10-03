@@ -25,10 +25,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <a target="_blank" href="https://www.amazon.com/Perfect-Optimization-Aequitas-Justitiae-Miller-ebook/dp/B0DW48RYBZ/"><img src="./images/Perfect-Optimization-Doru-Moraru-D-Miller-en.jpg" alt="Perfect Optimization" width="200" style="border-radius: 10px;"/></a>
+        <a target="_blank" href="https://www.amazon.com/Perfect-Optimization-Aequitas-Justitiae-Miller-ebook/dp/B0DW48RYBZ/"><img src="images/Perfect-Optimization-Doru-Moraru-D-Miller-en.jpg" alt="Perfect Optimization" width="200" style="border-radius: 10px;"/></a>
       </td>
       <td align="center" width="50%">
-        <a target="_blank" href="https://edoru.ro/"><img src="./images/Optimizarea-Perfecta-Doru-Moraru-ro.jpg" alt="Optimizarea Perfecta" width="200" style="border-radius: 10px;"/></a>
+        <a target="_blank" href="https://edoru.ro/"><img src="images/Optimizarea-Perfecta-Doru-Moraru-ro.jpg" alt="Optimizarea Perfecta" width="200" style="border-radius: 10px;"/></a>
       </td>
     </tr>
   </table>
