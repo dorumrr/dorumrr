@@ -4,19 +4,19 @@
 
   <h3 style="margin-top: -3px;">💼 Software Engineering Manager</h3>
 
-  - 🎯 **Lead & Scale** engineering teams to deliver exceptional products
+  - 🎯 **Lead and Facilitate** engineering teams to achieve **product excellence**
 
-  - 🏗️ **Architect** robust, scalable systems that drive business growth
+  - 🏗️ **Architect** robust, scalable systems that drive **business growth**
   
-  - 🔧 **Bridge** the gap between technical execution and business strategy
+  - 🔧 **Bridge** the gap between technical **execution** and business **strategy**
 
-  - 📈 **Mentor** engineers to reach their full potential
+  - 📈 **Mentor** engineers to reach their full **potential**
 
   ### 🧩 Beyond 9to5
 
-  - 📻 **Amateur Radio Operator** — Passionate about CW (Morse Code) and QRP
+  - 📻 **Amateur Radio Operator** — Passionate about **CW** (Morse Code) and **QRP** (low power)
 
-  - 🌐 **Open Source Enthusiast** — Contributing to and building (F)OSS projects
+  - 🌐 **Open Source Enthusiast** — Contributing to and building **(F)OSS** projects
   
   - ✍️ **Published Author** — Exploring technology, freedom, and the cost of progress.
 
@@ -26,9 +26,13 @@
     <tr>
       <td align="center" width="50%">
         <a target="_blank" href="https://www.amazon.com/Perfect-Optimization-Aequitas-Justitiae-Miller-ebook/dp/B0DW48RYBZ/"><img src="images/Perfect-Optimization-Doru-Moraru-D-Miller-en.jpg" alt="Perfect Optimization" width="200" style="border-radius: 10px;"/></a>
+        <br>
+        English
       </td>
       <td align="center" width="50%">
         <a target="_blank" href="https://edoru.ro/"><img src="images/Optimizarea-Perfecta-Doru-Moraru-ro.jpg" alt="Optimizarea Perfecta" width="200" style="border-radius: 10px;"/></a>
+        <br>
+        Română
       </td>
     </tr>
   </table>
