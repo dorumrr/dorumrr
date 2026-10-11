@@ -2,15 +2,9 @@
 
   <h1>Doru Moraru</h1>
 
-  <h3 style="margin-top: -3px;">💼 Software Engineering Manager</h3>
+  <h3 style="margin-top: -3px;">💼 Head of Engineering</h3>
 
-  - 🎯 **Lead and Facilitate** engineering teams to achieve **product excellence**
-
-  - 🏗️ **Architect** robust, scalable systems that drive **business growth**
-  
-  - 🔧 **Bridge** the gap between technical **execution** and business **strategy**
-
-  - 📈 **Mentor** engineers to reach their full **potential**
+  Combining hands-on technical leadership with responsibility for engineering strategy, team development and delivery, while balancing the need to move quickly with building reliable, scalable platforms that stand the test of time.
 
   ### 🧩 Beyond 9to5
 
